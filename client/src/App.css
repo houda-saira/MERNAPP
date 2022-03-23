@@ -1,0 +1,23 @@
+.remove-btn{
+    margin-right: 1rem;
+    color: rgb(24, 26, 29);
+ }
+ .fade-enter{
+    opacity: 0.01;
+    transition: margin right 2s ease-in-out;
+
+ }
+ .fade-enter-active{
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+    color: blueviolet;
+ }
+ .fade-exit{
+    opacity: 1;
+    transition: margin-right 4s 1s;
+ }
+ .fade-exit-active {
+    opacity: 0.01;
+    transition: opacity 1000ms ease-in;
+ }
+ 

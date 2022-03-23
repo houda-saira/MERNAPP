@@ -1,0 +1,16 @@
+Concurrently is a package which can run multiple npm scripts simultaneously.
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/:  difference entre npm et npx
+
+Le DOM (Document Object Model) est une interface vers un document HTML, Les navigateurs s'en servent pour determiner ce qui peut etre rendu a l ecran , et Javascript pour modifier la page.
+React utilise le DOM virtuel:Le DOM virtuel (VDOM) est un concept de programmation dans lequel une représentation idéale, ou « virtuelle », d’une interface utilisateur (UI) est conservée en mémoire et synchronisée avec le DOM « réel » par une bibliothèque telle que ReactDOM. Ce processus s’appelle réconciliation.
+
+Extensions pour react
+React Developer Tools:to inspect the React component hierarchies
+
+o JSX est un préprocesseur qui ajoute la syntaxe XML à JavaScript: plus rapide en compilation  
+au sein de JSX on met le code javascript entre {}.
+
+les composants sont soit une fonction soit une classe 
+
+props (propriétés) est un système qui permet de passer des données d'un composant
+parent à un composant enfant/Si on utilise les fonctions composant, le props est définie dans l’argument de la fonction
